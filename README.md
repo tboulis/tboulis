@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tboulis
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Ruby on Rails
-- 💞️ I’m looking to collaborate on opensource projects
+- 🌱 I’m currently working @mattermost
 - 📫 How to reach me  --> https://tasosboulis.com
 
 <!---
