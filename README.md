@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tboulis
 - 👀 I’m interested in software development
-- 🌱 I’m currently working @mattermost
+- 🌱 I’m currently working @rollstack
 - 📫 How to reach me  --> https://tasosboulis.com
 
 <!---
